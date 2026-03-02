@@ -1,6 +1,8 @@
 neovim-issue-38119
 ==================
 
+https://github.com/neovim/neovim/issues/38119
+
 export XDG_CONFIG_HOME=$(pwd)/.config
 export XDG_STATE_HOME=$(pwd)/.local/state/nvim
 nvim
