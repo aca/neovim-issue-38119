@@ -1,0 +1,21 @@
+[submodule ".local/share/nvim/site/pack/bundle/opt/fzf"]
+	path = .local/share/nvim/site/pack/bundle/opt/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule ".local/share/nvim/site/pack/bundle/opt/fzf.vim"]
+	path = .local/share/nvim/site/pack/bundle/opt/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule ".local/share/nvim/site/pack/bundle/opt/LuaSnip"]
+	path = .local/share/nvim/site/pack/bundle/opt/LuaSnip
+	url = https://github.com/L3MON4D3/LuaSnip.git
+[submodule ".local/share/nvim/site/pack/bundle/opt/dial.nvim"]
+	path = .local/share/nvim/site/pack/bundle/opt/dial.nvim
+	url = https://github.com/monaqa/dial.nvim.git
+[submodule ".local/share/nvim/site/pack/bundle/opt/plenary.nvim"]
+	path = .local/share/nvim/site/pack/bundle/opt/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim.git
+[submodule ".local/share/nvim/site/pack/bundle/opt/nvim-treesitter"]
+	path = .local/share/nvim/site/pack/bundle/opt/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule ".local/share/nvim/site/pack/bundle/opt/diffview.nvim"]
+	path = .local/share/nvim/site/pack/bundle/opt/diffview.nvim
+	url = https://github.com/sindrets/diffview.nvim.git
